@@ -604,8 +604,8 @@
             "autoFadeSpeed": 1,
             "id": "44c86b52-bd05-4415-929e-cfd8872a69d4",
             "symbol": "scene_1",
-            "x": 285.3160518299576,
-            "y": 30,
+            "x": 287.69700421090977,
+            "y": 31.190476190476186,
             "actors": [
                 {
                     "name": "",
@@ -1426,8 +1426,8 @@
             "autoFadeSpeed": 1,
             "id": "a1284521-be67-4370-9630-f348a810673f",
             "symbol": "scene_3",
-            "x": 283.7025629988794,
-            "y": 199.5836439653381,
+            "x": 288.4644677607839,
+            "y": 213.07570745740162,
             "actors": [
                 {
                     "name": "",
@@ -2578,8 +2578,8 @@
             "autoFadeSpeed": 1,
             "id": "d14bae11-8360-4b4a-968c-b481a8beeb00",
             "symbol": "scene_5",
-            "x": 283.620000568156,
-            "y": 390.4334739083938,
+            "x": 285.20730215545757,
+            "y": 417.4176008925209,
             "actors": [
                 {
                     "name": "Baddie",
@@ -3841,7 +3841,7 @@
                 2,
                 2,
                 2,
-                0,
+                2,
                 2,
                 2,
                 2,
@@ -11178,6 +11178,14 @@
             "type": "uge"
         },
         {
+            "id": "f5c98c71-d3e7-4db0-b4e9-056ed0569464",
+            "name": "song_template 2",
+            "symbol": "song_song_template_5",
+            "filename": "song_template 2.uge",
+            "settings": {},
+            "type": "uge"
+        },
+        {
             "id": "bd4b02ad-b2be-41a2-8091-479834d8adef",
             "name": "song_template",
             "symbol": "song_song_template_4",
@@ -11335,8 +11343,8 @@
         "startDirection": "down",
         "showCollisions": true,
         "showConnections": true,
-        "worldScrollX": 440,
-        "worldScrollY": 202,
+        "worldScrollX": 616,
+        "worldScrollY": 263,
         "zoom": 252,
         "customColorsEnabled": true,
         "sgbEnabled": false,
